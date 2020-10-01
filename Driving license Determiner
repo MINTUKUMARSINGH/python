@@ -1,5 +1,8 @@
 age = int(input("enter you age"))
 if age>18:
   print("yes you can drive")
+elif age==18 :
+  print("cannot say")
+  
 else 
   print("sorry, you cannot drive ")
