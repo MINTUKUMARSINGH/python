@@ -5,4 +5,4 @@ elif age==18 :
   print("cannot say")
   
 else 
-  print("sorry, you cannot drive ")
+  print("sorry, you can't drive ")
